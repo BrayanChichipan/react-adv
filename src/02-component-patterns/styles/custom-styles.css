@@ -17,5 +17,15 @@
 }
 
 .custom-button button{
-    background-color: red;
+    background-color: rgb(163, 62, 62);
+}
+
+.shopping-cart{
+    position: fixed;
+    top: 0;
+    right: 10px;
+}
+
+.small-card{
+    width: 120px;
 }
